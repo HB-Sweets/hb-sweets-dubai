@@ -14,13 +14,13 @@ Soft almond pastry combined with jam. Healthy, no added sugar, without milk. Per
 ### 2. [Almond Tart Cake](https://hbsweets.ae/product/almond-tart-2/)  
 A fuller cake version of the almond tart—rich in protein and fiber, naturally sweetened, no added sugar, without milk.
 
-### 3. [Carb Crunch Cake](https://hbsweets.ae/product/carb-crunch/)  
+### 3. [Carb Crunch Cake](https://hbsweets.ae/product/carb-cruch/)  
 Low-carb and gluten-free, this cake is a guilt‑free alternative to high-calorie sweets. No added sugar, without milk.
 
 ### 4. [Fat Bomb Brownie](https://hbsweets.ae/product/fat-bomb-brownie/)  
 A keto-friendly brownie snack, rich in healthy fats and protein. Low-carb, gluten-free, no sugar added, without milk.
 
-### 5. [Fat Bomb Brownie Cake](https://hbsweets.ae/product/fat-bomb-brownie-box/)  
+### 5. [Fat Bomb Brownie Cake](https://hbsweets.ae/product/fat-bomb-brownie/)  
 Larger cake version of the brownie—rich, moist, no added sugar, gluten-free, dairy-free, keto-approved.
 
 ### 6. [Garden Carrot Cake](https://hbsweets.ae/product/garden-carrot-cake/)  
