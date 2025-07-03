@@ -9,22 +9,22 @@ At **HB Sweets Dubai**, our bars are designed for clean, on-the-go energy—made
 ## 🌟 Our Bar Collection in Dubai
 
 ### 1. [Birthdate Bar](https://hbsweets.ae/product/date-bar/)  
-A vegan snack bar made from fresh dates, orange, saffron, and stevia. Free from added sugar, dairy, and eggs—ideal for mindful snacking. :contentReference[oaicite:1]{index=1}
+A vegan snack bar made from fresh dates, orange, saffron, and stevia. Free from added sugar, dairy, and eggs—ideal for mindful snacking.
 
 ### 2. [Carb Crunch Bar](https://hbsweets.ae/product/zero-bar/)  
-Low-carb & gluten-free. Brownie-like texture made with sunflower seed flour, coconut flour, cocoa, cheese, eggs, and stevia. High protein, no added sugar. :contentReference[oaicite:2]{index=2}
+Low-carb & gluten-free. Brownie-like texture made with sunflower seed flour, coconut flour, cocoa, cheese, eggs, and stevia. High protein, no added sugar.
 
 ### 3. [Cranberry Bar](https://hbsweets.ae/product/cranberry-bar/)  
-Oats, honey, peanut butter, cranberries, and almonds combine into a wholesome, high-fiber snack. No artificial sweeteners. :contentReference[oaicite:3]{index=3}
+Oats, honey, peanut butter, cranberries, and almonds combine into a wholesome, high-fiber snack. No artificial sweeteners. 
 
 ### 4. [Vitality Protein Bar](https://hbsweets.ae/product/protein-bar/)  
-High-protein, sugar-free bar made without milk. Soy protein, dark chocolate coating, egg and cheese for richness. Ideal for fitness fueling. :contentReference[oaicite:4]{index=4}
+High-protein, sugar-free bar made without milk. Soy protein, dark chocolate coating, egg and cheese for richness. Ideal for fitness fueling.
 
 ### 5. [Carb Crunch Box](https://hbsweets.ae/product/zero-bar/)  
-Assorted Carb Crunch Bars in a gift-ready box. Gluten-free, low-carb, without milk, no added sugar. Great for meal prep or sharing. :contentReference[oaicite:5]{index=5}
+Assorted Carb Crunch Bars in a gift-ready box. Gluten-free, low-carb, without milk, no added sugar. Great for meal prep or sharing.
 
 ### 6. [Vitality Protein Box](https://hbsweets.ae/product/vitality-protein-box/)  
-Bulk box of Vitality Protein Bars. High-protein, sugar-free, dairy-free. Perfect for active lifestyles and muscle recovery. :contentReference[oaicite:6]{index=6}
+Bulk box of Vitality Protein Bars. High-protein, sugar-free, dairy-free. Perfect for active lifestyles and muscle recovery. 
 
 ---
 
