@@ -8,7 +8,7 @@ At **HB Sweets Dubai**, our bars are designed for clean, on-the-go energy—made
 
 ## 🌟 Our Bar Collection in Dubai
 
-### 1. [Birthdate Bar](https://hbsweets.ae/product/birthdate-bar/)  
+### 1. [Birthdate Bar](https://hbsweets.ae/product/date-bar/)  
 A vegan snack bar made from fresh dates, orange, saffron, and stevia. Free from added sugar, dairy, and eggs—ideal for mindful snacking. :contentReference[oaicite:1]{index=1}
 
 ### 2. [Carb Crunch Bar](https://hbsweets.ae/product/zero-bar/)  
@@ -20,7 +20,7 @@ Oats, honey, peanut butter, cranberries, and almonds combine into a wholesome, h
 ### 4. [Vitality Protein Bar](https://hbsweets.ae/product/protein-bar/)  
 High-protein, sugar-free bar made without milk. Soy protein, dark chocolate coating, egg and cheese for richness. Ideal for fitness fueling. :contentReference[oaicite:4]{index=4}
 
-### 5. [Carb Crunch Box](https://hbsweets.ae/product/carb-crunch-box/)  
+### 5. [Carb Crunch Box](https://hbsweets.ae/product/zero-bar/)  
 Assorted Carb Crunch Bars in a gift-ready box. Gluten-free, low-carb, without milk, no added sugar. Great for meal prep or sharing. :contentReference[oaicite:5]{index=5}
 
 ### 6. [Vitality Protein Box](https://hbsweets.ae/product/vitality-protein-box/)  
