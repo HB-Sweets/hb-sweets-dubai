@@ -78,7 +78,7 @@ Each dietary or lifestyle-based collection is detailed in the `/categories` fold
 
 ## 🎉 About HB Sweets Dubai: More Than Just Desserts
 
-**HB Sweets Dubai** began as a family‑founded initiative with a clear purpose: to revolutionize sweet treats by making them health-conscious, diet-friendly, and utterly delicious. The brand is built on a foundation of clean ingredients, nutritional transparency, and a belief that indulgence and wellness can go hand in hand ([About Us](https://hbsweets.ae/about-us/?utm_source=chatgpt.com)).
+**HB Sweets Dubai** began as a family‑founded initiative with a clear purpose: to revolutionize sweet treats by making them health-conscious, diet-friendly, and utterly delicious. The brand is built on a foundation of clean ingredients, nutritional transparency, and a belief that indulgence and wellness can go hand in hand ([About Us](https://hbsweets.ae/about-us/)).
 
 The leadership team—Sahar, Ladan, and Zainab Haji Baba—brings culinary expertise from Cordon Bleu and technical business acumen, which has enabled HB Sweets Dubai to grow rapidly into a trusted name in healthy desserts across the UAE.
 
