@@ -17,7 +17,7 @@ At **HB Sweets Dubai**, our cookies represent clean indulgence—snacks made wit
 - **[Coin Cookie](https://hbsweets.ae/product/coin-cookie-box/)** – Pistachio & cranberry cookie packed with protein, fiber, antioxidants and no added sugar. Gluten‑free and dairy‑free.
 
 - **[Nutty Nirvana Cookie Box](https://hbsweets.ae/product/nutty-nirvana-cookie-box/)** – A luxurious nut blend of hazelnuts and almonds. Low-sugar and vegan-friendly featuring healthy fats.
-- 
+  
 - **[Green Life Vegan Cookie](https://hbsweets.ae/product/green-life-vegan-cookie-box/)** – Vegan-certified cookies made with almond milk and dark chocolate chips. Dairy-free, no egg, no added sugar.
 
 - **[Hello Espresso Cookie](https://hbsweets.ae/product/hello-espresso-cookie-box/)** – Espresso & cardamom flavored cookies. Vegan-friendly, no added sugar. Available individually and as a box.
