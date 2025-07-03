@@ -8,8 +8,6 @@ At **HB Sweets Dubai**, our cookies represent clean indulgence—snacks made wit
 
 ## 🌟 Our Cookie Collection in Dubai
 
-## 🌟 Our Cookie Collection in Dubai
-
 ### 1. [Baadaam Keto Cookies](https://hbsweets.ae/product/keto-almond-cookies/)  
 Soft and chewy almond‑based cookies with stevia. Dairy-free, gluten-free, high-protein, keto-friendly, no added sugar.
 
