@@ -23,8 +23,8 @@ At **HB Sweets Dubai**, our cookies represent clean indulgence—snacks made wit
 - **[Low Carb Cuties Cookie](https://hbsweets.ae/product/low-carb-cuties-cookie/)** – Cranberry and ginger cookie made with spelt flour. Low‑carb, high‑fiber, dairy-free, sugar-free.
 - **[Low Carb Cuties Cookie Box](https://hbsweets.ae/product/low-carb-cuties-cookie-box/)** – A gift box of our spelt-based Low Carb Cuties Cookies.
 - **[Mix Box](https://hbsweets.ae/product/mix-cookie-box/)** – Assorted cookies in one box. Low sugar, variety of healthy sweets.
-- **[Gym Buddy Protein Cookie](https://hbsweets.ae/product/gym-buddy-protein-cookie/)** – Protein-packed cookie for post-gym refuel. No egg, low sugar.
-- **[Gym Buddy Protein Cookie Box](https://hbsweets.ae/product/gym-buddy-protein-cookie-box-the-ultimate-healthy-snack-choice/)** – Multi-pack for fitness fans. High-protein, no added sugar.
+- **[Gym Buddy Protein Cookie](https://hbsweets.ae/product/chocolate-cookie/)** – Protein-packed cookie for post-gym refuel. No egg, low sugar.
+- **[Gym Buddy Protein Cookie Box](https://hbsweets.ae/product/vitality-protein-box/)** – Multi-pack for fitness fans. High-protein, no added sugar.
 - **[Yum Stone Paleo Cookie](https://hbsweets.ae/product/yum-stone-paleo-cookie/)** – Paleo-friendly, gluten-free, vegan cookie made with clean ingredients. No added sugar, no egg, dairy-free.
 - **[Yum Stone Paleo Cookie Box](https://hbsweets.ae/product/yum-stone-paleo-cookie-box/)** – Bulk version of Yum Stone Cookie. Ideal for paleo and vegan snackers.
 
