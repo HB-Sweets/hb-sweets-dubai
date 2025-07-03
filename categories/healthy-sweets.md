@@ -2,15 +2,12 @@
 
 At **HB Sweets Dubai**, our *Healthy Sweets* collection is crafted for those who want indulgence without compromise. Designed to support wellness, balance, and flavor, these treats are perfect for anyone pursuing a mindful lifestyle.
 
-🛒 Browse and shop our full *Healthy Sweets* collection here:  
-[https://hbsweets.ae/product-category/healthy/](https://hbsweets.ae/product-category/healthy/)
-
 ---
 
 ## Why Choose Healthy Sweets from HB Sweets Dubai?
 
 ### 🍫 Naturally Sweet, No Added Sugar  
-All our Healthy Sweets are refined-sugar free—naturally sweetened using ingredients like stevia, honey, fruit, or almond flour. This keeps calories in check and ensures more stable energy levels without sugar crashes.
+All our [healthy sweets](https://hbsweets.ae/product-category/healthy/) are refined-sugar free—naturally sweetened using ingredients like stevia, honey, fruit, or almond flour. This keeps calories in check and ensures more stable energy levels without sugar crashes.
 
 ### 🌱 Clean Ingredients You Can Trust  
 From almond flour and oats to walnuts and berries, every ingredient is carefully selected for its nutritional integrity. The result is treats that are naturally gluten-free (or clearly labeled if not), dairy-free where possible, and aligned with vegan or keto needs.
@@ -29,7 +26,8 @@ Ideal for:
 
 ## What You’ll Find in the Healthy Sweets Collection
 
-Our *Healthy Sweets* category spans cookies, cakes, bars, and assorted snack boxes. Each product is crafted with:
+Our collection includes cookies, cakes, bars, and mixed snack boxes that reflect our mission at [HB Sweets Dubai](https://hbsweets.ae): to make wellness-oriented indulgence simple and delicious. Each item is crafted with:
+
 - No added refined sugars  
 - Minimal, recognizable ingredients  
 - Labels showing if it’s plant-based, keto-friendly, vegan, gluten-free, or dairy-free  
@@ -49,9 +47,6 @@ Together, they form a versatile lineup for daily living—without compromising t
 
 ## Empowering Your Wellness Through Desserts
 
-HB Sweets Dubai believes that healthy eating doesn't have to be boring. From almond-based cookies and spiced cakes to protein bars and paleo delights, our *Healthy Sweets* are designed to nourish both body and spirit.
+HB Sweets Dubai believes that healthy eating doesn't have to be boring. From almond-based cookies and spiced cakes to protein bars and paleo delights, our [Healthy Sweets collection](https://hbsweets.ae/product-category/healthy/) is designed to nourish both body and spirit.
 
-Take a look at our full range of Healthy Sweets—and taste the difference of desserts made for your well-being.
-
-🛒 Explore now:  
-[https://hbsweets.ae/product-category/healthy/](https://hbsweets.ae/product-category/healthy/)
+Explore the range today and taste the difference of desserts made with care and intention.
