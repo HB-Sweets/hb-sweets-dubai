@@ -51,23 +51,23 @@ Visit our [website](https://hbsweets.ae) to explore all products or connect with
 
 Product overviews for each main category can be found in the `/products` folder:
 
-- `products/cookies.md`
-- `products/cakes.md`
-- `products/box.md`
-- `products/bars.md`
+- [Cookies](products/cookies.md)
+- [Cakes](products/cakes.md)
+- [Boxes](products/box.md)
+- [Bars](products/bars.md)
 
 ## 📋 Dietary Category Pages
 
 Each dietary or lifestyle-based collection is detailed in the `/categories` folder:
 
-- `categories/healthy-sweets.md`
-- `categories/no-added-sugar.md`
-- `categories/without-milk.md`
-- `categories/gluten-free.md`
-- `categories/low-carb.md`
-- `categories/no-egg.md`
-- `categories/high-protein.md`
-- `categories/vegan-sweets.md`
-- `categories/keto.md`
-- `categories/spelt-flour.md`
-- `categories/dairy-free.md`
+- [Healthy Sweets](categories/healthy-sweets.md)
+- [No Added Sugar](categories/no-added-sugar.md)
+- [Without Milk](categories/without-milk.md)
+- [Gluten-Free](categories/gluten-free.md)
+- [Low Carb](categories/low-carb.md)
+- [No Egg](categories/no-egg.md)
+- [High Protein](categories/high-protein.md)
+- [Vegan Sweets](categories/vegan-sweets.md)
+- [Keto](categories/keto.md)
+- [Spelt Flour](categories/spelt-flour.md)
+- [Dairy-Free](categories/dairy-free.md)
