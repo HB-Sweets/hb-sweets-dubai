@@ -11,7 +11,7 @@ At **HB Sweets Dubai**, our curated snack boxes bring together the best of clean
 ### 1. [Baadaam Keto Cookie Box](https://hbsweets.ae/product/baadaam-keto-cookie-box/)  
 A curated box of our bestselling Baadaam Keto Cookies. Dairy-free, gluten-free, high‑protein, keto-friendly, no added sugar.
 
-### 2. [Carb Crunch Box](https://hbsweets.ae/product/carb-crunch-box/)  
+### 2. [Carb Crunch Box](https://hbsweets.ae/product/carb-cruch-box/)  
 Low‑carb bar assortment in a giftable box — gluten-free, sugar-free, and without milk. Ideal for healthy snacking & fitness support.
 
 ### 3. [Coin Cookie Box](https://hbsweets.ae/product/coin-cookie-box/)  
@@ -23,7 +23,7 @@ Fig‑based cookies in a nutrient-rich assortment. Low‑carb, no added sugar, w
 ### 5. [Green Life Vegan Cookie Box](https://hbsweets.ae/product/green-life-vegan-cookie-box/)  
 Vegan-certified cookies made with almond milk and dark chocolate chips. Gluten-free, no egg, no added sugar.
 
-### 6. [Gym Buddy Protein Cookie Box](https://hbsweets.ae/product/gym-buddy-protein-cookie-box/)  
+### 6. [Gym Buddy Protein Cookie Box](https://hbsweets.ae/product/vitality-protein-box/)  
 High‑protein cookies in bulk packaging. No added sugar, no egg; ideal for fitness enthusiasts.
 
 ### 7. [Hello Espresso Cookie Box](https://hbsweets.ae/product/hello-espresso-cookie-box/)  
@@ -32,7 +32,7 @@ Espresso & cardamom flavored cookies, sugar-free and vegan-friendly. A sophistic
 ### 8. [Low Carb Cuties Cookie Box](https://hbsweets.ae/product/low-carb-cuties-cookie-box/)  
 Spelt flour cookies with cranberry & ginger. Low-carb, high fiber, without milk, no added sugar.
 
-### 9. [Mix Box](https://hbsweets.ae/product/mix-cookie-box/)  
+### 9. [Mix Box](https://hbsweets.ae/product/cookies-box/)  
 Assorted selection of cookies in one box—low sugar, healthy sweets variety for gifting or sharing.
 
 ### 10. [Nutty Nirvana Cookie Box](https://hbsweets.ae/product/nutty-nirvana-cookie-box/)  
